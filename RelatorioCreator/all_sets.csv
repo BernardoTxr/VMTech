@@ -1,0 +1,81 @@
+,Atacante,Tipo,Origem,Destino
+0,Vini,Voltou,Saída,Diagonal
+1,Mano Brown,Kill,Meio,Negativa
+2,Balula,Voltou,Entrada,Diagonal
+3,TT,Kill,Entrada,Diagonal
+4,Mano Brown,Voltou,Meio,Positiva
+5,TT,Pinga,Entrada,Paralela
+6,Mano Brown,Pinga,Meio,Negativa
+7,Balula,Voltou,Fundo Meio,Positiva
+8,Mano Brown,Pinga,Meio,Positiva
+9,Vini,Voltou,Entrada,Paralela
+10,TT,Kill,Saída,Diagonal Curta
+11,Mano Brown,Pinga,Meio,Negativa
+12,Balula,Kill,Entrada,Diagonal
+13,Cavalo,Pinga,Meio,Positiva
+14,Vini,Erro,Saída,Diagonal Curta
+15,Balula,Kill,Entrada,Paralela
+16,TT,Voltou,Entrada,Diagonal
+17,TT,Kill,Entrada,Diagonal Curta
+18,Mano Brown,Erro,Meio,Negativa
+19,TT,Kill,Saída,Diagonal Curta
+20,Balula,Kill,Entrada,Diagonal Curta
+21,TT,Erro,Fundo Meio,Negativa
+22,Cavalo,Pinga,Meio,Negativa
+23,Balula,Pinga,Entrada,Paralela
+24,Vini,Kill,Saída,Paralela
+25,Balula,Voltou,Saída,Diagonal
+26,Balula,Kill,Saída,Paralela
+27,TT,Kill,Saída,Diagonal Curta
+28,TT,Kill,Entrada,Diagonal
+29,TT,Kill,Entrada,Diagonal
+30,Cavalo,Erro,Meio,Positiva
+31,TT,Voltou,Saída,Diagonal
+32,Bruno,Voltou,Entrada,Diagonal
+33,TT,Voltou,Saída,Diagonal
+34,TT,Kill,Entrada,Diagonal
+35,Balula,Voltou,Entrada,Diagonal
+36,Balula,Voltou,Entrada,Diagonal
+37,Balula,Kill,Entrada,Diagonal
+38,TT,Voltou,Entrada,Diagonal Curta
+39,TT,Kill,Entrada,Diagonal
+40,TT,Kill,Saída,Diagonal
+41,TT,Voltou,Fundo Meio,Negativa
+42,TT,Voltou,Fundo Meio,Positiva
+43,Balula,Voltou,Entrada,Diagonal
+44,TT,Kill,Fundo Meio,Negativa
+45,Balula,Voltou,Entrada,Diagonal
+46,Balula,Erro,Entrada,Diagonal Curta
+47,TT,Kill,Fundo Meio,Negativa
+48,TT,Pinga,Fundo Meio,Positiva
+49,Balula,Voltou,Entrada,Paralela
+50,TT,Voltou,Fundo Meio,Negativa
+51,Balula,Kill,Entrada,Diagonal
+52,TT,Kill,Entrada,Diagonal
+53,TT,Voltou,Entrada,Diagonal
+54,TT,Kill,Entrada,Diagonal Curta
+55,TT,Kill,Entrada,Paralela
+56,Balula,Erro,Fundo Meio,Negativa
+57,TT,Erro,Entrada,Diagonal
+58,TT,Voltou,Entrada,Diagonal
+59,TT,Erro,Entrada,Diagonal
+60,TT,Voltou,Entrada,Diagonal
+61,TT,Voltou,Entrada,Diagonal
+62,TT,Voltou,Entrada,Diagonal
+63,Bruno,Kill,Entrada,Diagonal
+64,Mano Brown,Voltou,Meio,Negativa
+65,Balula,Voltou,Entrada,Diagonal
+66,Bruno,Erro,Saída,Diagonal
+67,Balula,Voltou,Entrada,Diagonal Curta
+68,Balula,Kill,Entrada,Diagonal Curta
+69,Balula,Pinga,Entrada,Paralela
+70,Balula,Kill,Entrada,Diagonal Curta
+71,Balula,Erro,Entrada,Paralela
+72,TT,Voltou,Fundo Meio,Negativa
+73,Balula,Kill,Saída,Diagonal
+74,Vini,Voltou,Saída,Diagonal
+75,TT,Kill,Entrada,Paralela
+76,TT,Kill,Entrada,Diagonal Curta
+77,Bruno,Pinga,Entrada,Paralela
+78,TT,Voltou,Fundo Meio,Negativa
+79,Balula,Kill,Entrada,Diagonal

@@ -1,0 +1,28 @@
+,Atacante,Tipo,Origem,Destino
+0,TT,Kill,Entrada,Diagonal
+1,TT,Kill,Entrada,Diagonal
+2,Cavalo,Erro,Meio,Positiva
+3,TT,Voltou,Saída,Diagonal
+4,Bruno,Voltou,Entrada,Diagonal
+5,TT,Voltou,Saída,Diagonal
+6,TT,Kill,Entrada,Diagonal
+7,Balula,Voltou,Entrada,Diagonal
+8,Balula,Voltou,Entrada,Diagonal
+9,Balula,Kill,Entrada,Diagonal
+10,TT,Voltou,Entrada,Diagonal Curta
+11,TT,Kill,Entrada,Diagonal
+12,TT,Kill,Saída,Diagonal
+13,TT,Voltou,Fundo Meio,Negativa
+14,TT,Voltou,Fundo Meio,Positiva
+15,Balula,Voltou,Entrada,Diagonal
+16,TT,Kill,Fundo Meio,Negativa
+17,Balula,Voltou,Entrada,Diagonal
+18,Balula,Erro,Entrada,Diagonal Curta
+19,TT,Kill,Fundo Meio,Negativa
+20,TT,Pinga,Fundo Meio,Positiva
+21,Balula,Voltou,Entrada,Paralela
+22,TT,Voltou,Fundo Meio,Negativa
+23,Balula,Kill,Entrada,Diagonal
+24,TT,Kill,Entrada,Diagonal
+25,TT,Voltou,Entrada,Diagonal
+26,TT,Kill,Entrada,Diagonal Curta

@@ -1,0 +1,26 @@
+,Atacante,Tipo,Origem,Destino
+0,TT,Kill,Entrada,Paralela
+1,Balula,Erro,Fundo Meio,Negativa
+2,TT,Erro,Entrada,Diagonal
+3,TT,Voltou,Entrada,Diagonal
+4,TT,Erro,Entrada,Diagonal
+5,TT,Voltou,Entrada,Diagonal
+6,TT,Voltou,Entrada,Diagonal
+7,TT,Voltou,Entrada,Diagonal
+8,Bruno,Kill,Entrada,Diagonal
+9,Mano Brown,Voltou,Meio,Negativa
+10,Balula,Voltou,Entrada,Diagonal
+11,Bruno,Erro,Saída,Diagonal
+12,Balula,Voltou,Entrada,Diagonal Curta
+13,Balula,Kill,Entrada,Diagonal Curta
+14,Balula,Pinga,Entrada,Paralela
+15,Balula,Kill,Entrada,Diagonal Curta
+16,Balula,Erro,Entrada,Paralela
+17,TT,Voltou,Fundo Meio,Negativa
+18,Balula,Kill,Saída,Diagonal
+19,Vini,Voltou,Saída,Diagonal
+20,TT,Kill,Entrada,Paralela
+21,TT,Kill,Entrada,Diagonal Curta
+22,Bruno,Pinga,Entrada,Paralela
+23,TT,Voltou,Fundo Meio,Negativa
+24,Balula,Kill,Entrada,Diagonal
